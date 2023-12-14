@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientMe";
+
+package greet;
+
+service Greeter{
+	rpc ConnectClient (stream RequestClient) returns (stream ResponseClient);		//TODO: ALTERAR NOME
+	rpc handleConnection (stream RequestConnection) returns (stream ResponseConnection);
+}
+
+message RequestClient {
+	string ClientName = 1;
+	string ClientToSend = 2;
+	string Message = 3;
+}
+
+message ResponseClient {
+	string Message = 1;
+}
+
+message RequestConnection {
+	string ClientName = 1;
+	bool Status = 2;
+}
+
+message ResponseConnection {
+	string Message = 1;
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/6Osl/U+T2i9nW7fABgwk6wreOcv8+1dX/4kqHkBxYCqC8OkmCv5DPq6ELquVP5QfPF533CrUF5oV5u0VTA4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nameless\\Desktop\\TesteFinal\\ConnectMeServer\\ConnectMeServer\\ConnectMeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nameless\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.aspnetcore.server\\2.40.0\\grpc.aspnetcore.server.2.40.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.40.0\\grpc.aspnetcore.server.clientfactory.2.40.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.net.clientfactory\\2.40.0\\grpc.net.clientfactory.2.40.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.net.common\\2.57.0\\grpc.net.common.2.57.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\grpc.tools\\2.58.0\\grpc.tools.2.58.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Nameless\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

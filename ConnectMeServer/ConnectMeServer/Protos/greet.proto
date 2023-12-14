@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+option csharp_namespace = "ConnectMeServer";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  rpc ConnectClient (stream RequestClientConnect) returns (stream ResponseClientConnect);
+  rpc ConsumerClient (stream RequestClientConsumer) returns (stream ResponseClientConsumer);
+  rpc handleConnection (stream RequestConnection) returns (stream ResponseConnection);
+}
+
+
+message RequestClientConnect {
+	string ClientName = 1;
+	string ClientToSend = 2;
+	string Message = 3;
+}
+
+message ResponseClientConnect {
+	string Message = 1;
+}
+
+message RequestClientConsumer{
+	string QueueName = 1;
+	string ClientToSend = 2;
+
+}
+
+message ResponseClientConsumer {
+	string Message = 1;
+}
+
+message RequestConnection {
+	string ClientName = 1;
+	bool Status = 2;
+}
+
+message ResponseConnection {
+	string Message = 1;
+}

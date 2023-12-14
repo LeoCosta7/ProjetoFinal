@@ -1,0 +1,48 @@
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.AssemblyReference.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.Form1.resources
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.FormClient.resources
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.GenerateResource.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.AssemblyInfoInputs.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.AssemblyInfo.cs
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.CoreCompileInputs.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.exe
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.deps.json
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.runtimeconfig.json
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.pdb
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\refint\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.pdb
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.genruntimeconfig.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ref\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.CopyComplete
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.AssemblyReference.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.Form1.resources
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.FormClient.resources
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.GenerateResource.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.AssemblyInfoInputs.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.AssemblyInfo.cs
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.CoreCompileInputs.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\refint\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.pdb
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.exe
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.deps.json
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.runtimeconfig.json
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\ConnectMeClients.pdb
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.csproj.CopyComplete
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ConnectMeClients.genruntimeconfig.cache
+C:\Users\Nameless\Desktop\TesteFinal\ConnectMeClients - Copia (2)\ConnectMeClients\obj\Debug\net6.0-windows\ref\ConnectMeClients.dll
