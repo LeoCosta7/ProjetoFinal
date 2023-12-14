@@ -5,7 +5,7 @@ option csharp_namespace = "ClientMe";
 package greet;
 
 service Greeter{
-	rpc ConnectClient (stream RequestClient) returns (stream ResponseClient);		//TODO: ALTERAR NOME
+	rpc ConnectClient (stream RequestClient) returns (stream ResponseClient);		
 	rpc handleConnection (stream RequestConnection) returns (stream ResponseConnection);
 }
 
